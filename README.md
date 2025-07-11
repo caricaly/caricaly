@@ -86,27 +86,6 @@
 - **Gaming vs Coding**: I rage quit both equally
 - **Documentation reader**: Only when everything else fails
 - **Rubber duck debugging**: My rubber duck filed for emotional damages
-
----
-
-### 🌸 Current Mood
-
-<div align="center">
-
-
-ascii
-    ╔═══════════════════════════════════════╗
-    ║  Current Status: Questioning life     ║
-    ║  choices while writing commit msgs    ║
-    ║                                       ║
-    ║  Debugging Level: ████████████ 100%   ║
-    ║  Sanity Level:    ██░░░░░░░░░░  20%   ║
-    ║  Coffee Level:    ░░░░░░░░░░░░   0%   ║
-    ║  Will to Live:    ███░░░░░░░░░  30%   ║
-    ╚═══════════════════════════════════════╝
-
-</div>
-
 ---
 
 ### 🌸 Random Developer Quote
