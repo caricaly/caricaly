@@ -44,9 +44,9 @@ const quinn = {
   
 ### 🌸 GitHub Stats (Prepare for Disappointment)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical&bg_color=0d1117&title_color=ff69b4&icon_color=ffb6c1&text_color=ffc0cb" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=caricaly&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical&bg_color=0d1117&title_color=ff69b4&icon_color=ffb6c1&text_color=ffc0cb" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&hide_border=true&theme=radical&bg_color=0d1117&title_color=ff69b4&text_color=ffc0cb" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caricaly&layout=compact&hide_border=true&theme=radical&bg_color=0d1117&title_color=ff69b4&text_color=ffc0cb" />
 
 </div>
 
@@ -61,7 +61,7 @@ const quinn = {
   
 ### 🌸 Contribution Graph (My Digital Heartbeat)
 
-<img src="https://activity-graph.herokuapp.com/graph?username=yourusername&theme=react-dark&hide_border=true&bg_color=0d1117&color=ff69b4&line=ffb6c1&point=ffc0cb" />
+<img src="https://activity-graph.herokuapp.com/graph?username=caricaly&theme=react-dark&hide_border=true&bg_color=0d1117&color=ff69b4&line=ffb6c1&point=ffc0cb" />
 
 </div>
 
@@ -89,9 +89,9 @@ const quinn = {
 
 <div align="center">
 
-[![Lumic Bot](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=lumic-bot&theme=radical&bg_color=0d1117&title_color=ff69b4&text_color=ffc0cb&icon_color=ffb6c1&hide_border=true)](https://github.com/yourusername/lumic-bot)
+[![Lumic Bot](https://github-readme-stats.vercel.app/api/pin/?username=caricaly&repo=lumic-bot&theme=radical&bg_color=0d1117&title_color=ff69b4&text_color=ffc0cb&icon_color=ffb6c1&hide_border=true)](https://github.com/caricaly/lumic-bot)
 
-[![Another Disaster](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=another-repo&theme=radical&bg_color=0d1117&title_color=ff69b4&text_color=ffc0cb&icon_color=ffb6c1&hide_border=true)](https://github.com/yourusername/another-repo)
+[![Another Disaster](https://github-readme-stats.vercel.app/api/pin/?username=caricaly&repo=another-repo&theme=radical&bg_color=0d1117&title_color=ff69b4&text_color=ffc0cb&icon_color=ffb6c1&hide_border=true)](https://github.com/caricaly/another-repo)
 
 </div>
 
@@ -143,8 +143,8 @@ ascii
 <div align="center">
 
 [![Discord](https://img.shields.io/badge/-Discord-ff69b4?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yourserver)
-[![Twitter](https://img.shields.io/badge/-Twitter-ffb6c1?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-ffc0cb?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
+[![Twitter](https://img.shields.io/badge/-Twitter-ffb6c1?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/caricaly)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-ffc0cb?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/caricaly)
 [![Email](https://img.shields.io/badge/-Email-ff69b4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 </div>
@@ -155,7 +155,7 @@ ascii
   
 ### 🌸 Visitor Count (People Who Lost Their Way)
 
-![Visitor Count](https://profile-counter.glitch.me/yourusername/count.svg?color=ff69b4)
+![Visitor Count](https://profile-counter.glitch.me/caricaly/count.svg?color=ff69b4)
 
 </div>
 
@@ -165,7 +165,7 @@ ascii
   
 ### 🌸 Profile Views Evolution
 
-![](https://komarev.com/ghpvc/?username=yourusername&color=ff69b4&style=flat-square&label=Profile+Views+(Victims))
+![](https://komarev.com/ghpvc/?username=caricaly&color=ff69b4&style=flat-square&label=Profile+Views+(Victims))
 
 </div>
 
