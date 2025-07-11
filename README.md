@@ -9,31 +9,12 @@
 
 ---
 
-### 🌸 About This Digital Disaster
-
-
-javascript
-const quinn = {
-  pronouns: "they/them",
-  code: ["JavaScript", "Python", "HTML", "CSS", "Node.js"],
-  askMeAbout: ["Discord bots", "Web dev", "Why I chose programming"],
-  technologies: {
-    frontEnd: ["React", "Vue", "HTML", "CSS"],
-    backEnd: ["Node.js", "Express", "MongoDB"],
-    databases: ["MongoDB", "SQLite", "Quick.db"],
-    misc: ["Discord.js", "Canvas", "Git"]
-  },
-  currentProject: "Lumic Bot - A Discord bot with an existential crisis",
-  funFact: "I debug code better than I debug my life choices"
-};
-
-
 ### 🌸 Current Status
-- 🔭 Working on **Lumic Bot** - because the world needs more sarcastic Discord bots
-- 🌱 Learning **advanced procrastination techniques** and React (in that order)
-- 💬 Ask me about **literally anything** except my commit history
-- 📫 How to reach me: **Carrier pigeon or GitHub issues**
-- ⚡ Fun fact: **I once wrote a function so bad it became sentient and filed a restraining order**
+- Working on **Lumic Bot** - because the world needs more sarcastic Discord bots
+- Learning **advanced procrastination techniques** and React (in that order)
+- Ask me about **literally anything** except my commit history
+-  How to reach me: **Carrier pigeon or GitHub issues**
+- Fun fact: **I once wrote a function so bad it became sentient and filed a restraining order**
 
 ### 🌸 My Coding Philosophy
 > "Code like you're writing your own obituary - make it memorable, slightly tragic, and absolutely ridiculous."
@@ -99,12 +80,12 @@ const quinn = {
 
 ### 🌸 Fun Facts About My Coding Journey
 
-- 🎯 **99.9% of my code works** (the other 0.1% is in production)
-- 🐛 **I don't write bugs**, I write undocumented features
-- ☕ **Coffee-to-code ratio**: 1:0 (I survive on pure anxiety)
-- 🎮 **Gaming vs Coding**: I rage quit both equally
-- 📚 **Documentation reader**: Only when everything else fails
-- 🤝 **Rubber duck debugging**: My rubber duck filed for emotional damages
+- **99.9% of my code works** (the other 0.1% is in production)
+- **I don't write bugs**, I write undocumented features
+- **Coffee-to-code ratio**: 1:0 (I survive on pure anxiety)
+- **Gaming vs Coding**: I rage quit both equally
+- **Documentation reader**: Only when everything else fails
+- **Rubber duck debugging**: My rubber duck filed for emotional damages
 
 ---
 
