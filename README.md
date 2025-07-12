@@ -10,7 +10,7 @@
 ---
 
 ### 🌸 Current Status
-- Working on **Lumic ** - because the world needs more sarcastic Discord bots
+- Working on **Lumic** - because the world needs more sarcastic Discord bots
 - Learning **advanced procrastination techniques** and React (in that order)
 - Ask me about **literally anything** except my commit history
 -  How to reach me: **Carrier pigeon or GitHub issues**
