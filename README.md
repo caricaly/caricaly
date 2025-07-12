@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,13,14,15,16&height=200&section=header&text=Quinn's%20Digital%20Graveyard&fontSize=40&fontColor=ffffff&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,13,14,15,16&height=200&section=header&text=Kenton's%20Digital%20Graveyard&fontSize=40&fontColor=ffffff&animation=twinkling" />
 </div>
 
 <div align="center">
@@ -10,7 +10,7 @@
 ---
 
 ### 🌸 Current Status
-- Working on **Lumic Bot** - because the world needs more sarcastic Discord bots
+- Working on **Lumic ** - because the world needs more sarcastic Discord bots
 - Learning **advanced procrastination techniques** and React (in that order)
 - Ask me about **literally anything** except my commit history
 -  How to reach me: **Carrier pigeon or GitHub issues**
